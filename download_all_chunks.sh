@@ -2,7 +2,8 @@
 mkdir -p ymju_interleve_zip
 cd ymju_interleve_zip
 
-# Due to bandwidth and hosting constraints, only chunk_0_40.tar.gz is currently available for public download. If you are interested in accessing the full dataset (6.5TB), please create an issue.
+# Due to bandwidth and hosting limitations, only chunk_0_40.tar.gz is currently available for public download.
+# For access to the full dataset (6.5 TB), please refer to BAAI/CI-VID on Hugging Face
 
 files=(
   chunk_0_40.tar.gz
