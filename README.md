@@ -4,8 +4,7 @@ CI-VID is a large-scale dataset designed to advance **coherent multi-clip video 
 🔗 [📃 Paper](https://arxiv.org/abs/2507.01938)  
 🔗 [📦 Download Train Samples (334k)](https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/CI-VID_train_samples.jsonl)  
 🔗 [📦 Download Test Samples (8k)](https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/CI-VID_test_samples.jsonl)  
-📦 Download Videos: CI-VID/download_all_chunks.sh (Due to bandwidth and hosting limitations, only chunk_0_40.tar.gz is currently available for public download.
-For access to the full dataset (6.5 TB), please refer to BAAI/CI-VID on Hugging Face)
+📦 Download Videos: CI-VID/download_all_chunks.sh (For access to the full dataset videos (6.5 TB), please refer to BAAI/CI-VID on Hugging Face (https://huggingface.co/datasets/BAAI/CI-VID))
 
 <img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/civid_example.png" border=0 width=100%>
 
